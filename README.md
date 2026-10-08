@@ -95,3 +95,8 @@ InterviewAI helps candidates prepare for technical and behavioral interviews by 
                     │   Save Interview    │
                     │      Reports        │
                     └─────────────────────┘
+
+## Screenshots
+### Login Page
+
+![InterviewAI Login](docs/img.png)
